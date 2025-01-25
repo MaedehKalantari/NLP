@@ -1,0 +1,1 @@
+This project demonstrates the creation of a multi-agent system using LangChain to process and synthesize data. The system consists of three interconnected agents that work together to analyze sales and profit data, identify regions meeting specific criteria, and provide actionable insights.  
